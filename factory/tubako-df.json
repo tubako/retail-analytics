@@ -1,0 +1,9 @@
+{
+	"name": "tubako-df",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9ab1a8e-3629-462e-ac90-59429fae0627",
+		"tenantId": "90945349-2a69-484e-821a-418e0d04d8da"
+	}
+}
