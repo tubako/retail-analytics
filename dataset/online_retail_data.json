@@ -1,5 +1,5 @@
 {
-	"name": "Retail_data",
+	"name": "online_retail_data",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "myblob",
@@ -8,7 +8,6 @@
 		"annotations": [],
 		"type": "Excel",
 		"typeProperties": {
-			"sheetName": "Online Retail",
 			"location": {
 				"type": "AzureBlobStorageLocation",
 				"fileName": "Online Retail.xlsx",
