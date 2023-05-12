@@ -71,3 +71,4 @@ Now I am ready to go on Azure and continue the rest of my project on there.
 
 ## Creating the Pipeline on Azure
 
+I will be using Azure and Before starting on the pipeline, I have created a data factory, a SQL database and a blob storage for this project. After uploading the Online Retail.csv file I created on Python to the blob storage, I create a pipeline on Azure Data Factory called "Blob to SQL". By linking the  
